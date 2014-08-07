@@ -1,0 +1,35 @@
+p {
+	color:"red";
+	background-color: white;
+}
+
+
+.container-fluid {
+	background-color: lightgrey;
+}
+
+.container {
+	background-color: lightgrey;
+}
+
+
+
+.col-md-1{
+	border: 1px solid white;
+}
+
+.col-md-2{
+	border: 1px solid white;
+}
+.col-md-3{
+	border: 1px solid white;
+}
+.col-md-4{
+	border: 1px solid white;
+}
+.col-md-5{
+	border: 1px solid white;
+}
+.col-md-6{
+	border: 1px solid white;
+}
